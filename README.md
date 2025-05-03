@@ -88,6 +88,7 @@ A full-stack social content aggregation platform built with React, Node.js, and 
 The application will be available at:
 - Frontend: http://localhost:5173
 - Backend API: http://localhost:5000
+- note: for first admin make the admin through the database in mongodb then you an view the admin dashboard. 
 
 ## Tech Stack
 
