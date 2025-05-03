@@ -163,26 +163,6 @@ const Login = () => {
         </Text>
       )}
 
-      {/* Demo credentials */}
-      <Box mt={8} p={4} bg="neutral.50" borderRadius="md">
-        <Text fontSize="sm" color="neutral.600" mb={2} fontWeight="medium">
-          Demo Credentials
-        </Text>
-        {isAdminLogin ? (
-          <Text fontSize="xs" color="neutral.500">
-            <strong>Admin:</strong> admin@example.com / admin123
-          </Text>
-        ) : (
-          <>
-            <Text fontSize="xs" color="neutral.500">
-              <strong>User:</strong> user@example.com / password123
-            </Text>
-            <Text fontSize="xs" color="neutral.500">
-              <strong>Admin:</strong> admin@example.com / admin123
-            </Text>
-          </>
-        )}
-      </Box>
     </MotionBox>
   )
 }
