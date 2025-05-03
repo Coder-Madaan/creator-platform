@@ -45,7 +45,7 @@ A full-stack social content aggregation platform built with React, Node.js, and 
 ### Backend Setup
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Coder-Madaan/creator-platform
    cd creator-platform/backend
    ```
 
